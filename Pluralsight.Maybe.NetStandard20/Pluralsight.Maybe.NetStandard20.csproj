@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>Pluralsight.Maybe</AssemblyName>
+    <RootNamespace>Pluralsight.Maybe</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\Pluralsight.Maybe\Maybe.cs" Link="Maybe.cs" />
+    <Compile Include="..\Pluralsight.Maybe\MaybeExtensions.cs" Link="MaybeExtensions.cs" />
+  </ItemGroup>
+
+</Project>

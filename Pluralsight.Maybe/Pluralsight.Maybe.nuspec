@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Pluralsight.Maybe</id>
-    <version>1.1.0</version>
+    <version>1.1.1</version>
     <authors>ps-dev</authors>
     <owners>Pluralsight</owners>
     <licenseUrl>https://github.com/pluralsight/maybe-dotnet</licenseUrl>
@@ -20,5 +20,6 @@
     <file src="..\Pluralsight.Maybe.46\bin\Release\Pluralsight.Maybe.dll" target="lib\net46" />
     <file src="..\Pluralsight.Maybe.452\bin\Release\Pluralsight.Maybe.dll" target="lib\net452" />
     <file src="..\Pluralsight.Maybe.451\bin\Release\Pluralsight.Maybe.dll" target="lib\net451" />
+    <file src="..\Pluralsight.Maybe.NetStandard20\bin\Release\Pluralsight.Maybe.dll" target="lib\netstandard20" />
   </files>
 </package>
